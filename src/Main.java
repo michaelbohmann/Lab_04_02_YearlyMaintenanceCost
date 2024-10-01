@@ -12,7 +12,7 @@ public class Main {
         double totalCost = 0.0;
 
         System.out.print("What was the maintenance cost for winter?");
-        4winterCost = console.nextDouble();
+        winterCost = console.nextDouble();
         System.out.print("What was the maintenance cost for spring?");
         springCost = console.nextDouble();
         System.out.print("What was the maintenance cost for summer?");
